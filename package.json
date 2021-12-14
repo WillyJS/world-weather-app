@@ -1,0 +1,19 @@
+{
+  "name": "local-weather",
+  "version": "1.0.0",
+  "description": "![](/newyorkWeather.PNG)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WillyJS/world-weather-app.git"
+  },
+  "author": "William Sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WillyJS/world-weather-app/issues"
+  },
+  "homepage": "https://github.com/WillyJS/world-weather-app#readme"
+}
